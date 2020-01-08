@@ -7,5 +7,11 @@ public class testone {
 		
       System.out.println("hello");
 	}
+	public  void print() 
+	{
+		
+      System.out.println("hahah");
+	}
+
 
 }
