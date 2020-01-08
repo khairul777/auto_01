@@ -11,4 +11,9 @@ public class khai
 		
       System.out.println("hahah");
 	}
+	public  void print2() 
+	{
+		
+      System.out.println("hahah");
+	}
 }
