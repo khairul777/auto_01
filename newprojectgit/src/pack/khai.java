@@ -6,4 +6,9 @@ public class khai
 	{
       System.out.println("hahah");
 	}
+	public  void print1() 
+	{
+		
+      System.out.println("hahah");
+	}
 }
