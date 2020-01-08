@@ -11,7 +11,7 @@ public class khai
 		
       System.out.println("hahah");
 	}
-	public  void print2() 
+	public  void print3() 
 	{
 		
       System.out.println("hahah");
