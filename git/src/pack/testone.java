@@ -13,5 +13,9 @@ public class testone {
       System.out.println("hahah");
 	}
 
-
+	public  void print1() 
+	{
+		
+      System.out.println("hahah");
+	}
 }
